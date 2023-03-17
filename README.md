@@ -1,2 +1,2 @@
-# xenon-menu
-HTML menu demo for xenon
+# vyrazu-menu
+HTML menu demo for vyrazu
